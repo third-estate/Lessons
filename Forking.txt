@@ -17,7 +17,7 @@ git add .
 git commit -m "Made some crazy changes"
   # commit the changes locally
   # use interactive mode to tidy up your commits
-git push --set-upstream origin test-change
+git push --set-upstream origin issueXYZ
   # first time need 'set-upstream...' because branch doesn't exist on remote, thereafter just 'git push'
 
 To refresh with changes in original repository to make sure your changes are going to work 
